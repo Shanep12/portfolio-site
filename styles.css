@@ -6,7 +6,9 @@ padding: 0;
 background-color: white;
 color: var(--text-dark);
 line-height: 1.6;
-img size: height: auto;
+img {
+    height: auto;
+}
 }
 
 header { 
